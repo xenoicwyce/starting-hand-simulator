@@ -1,8 +1,0 @@
-Starting hand simulator. Similar to drawing balls from a box.
-
-`main.py` takes in element-number pairs from a `.dat` file, e.g.:
-``
-Red, 3
-Green, 7
-Blue, 5
-``
