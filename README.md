@@ -13,3 +13,7 @@ card_name2, number_of_copies
 card_name3, number_of_copies
 ...
 ```
+In this case, run
+```
+python main.py --use-dat path/to/file.dat
+```
